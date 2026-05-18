@@ -24,3 +24,4 @@ Notes and usage details for Brokies-AI-Foundry.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
